@@ -1,5 +1,5 @@
 # Site settings
-name: 我的技术空间
+name: technical space 
 email: 845358235@qq.com
 author: Nick Zhang
 url: 
@@ -27,9 +27,9 @@ FB:
   comments :
     provider : duoshuo
     duoshuo:
-        short_name : luoyan35714
+        short_name : 
     disqus :
-        short_name : freudkang
+        short_name : 
     # facebook :
     #   appid : 123
     #   num_posts: 5

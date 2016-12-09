@@ -10,6 +10,8 @@ tag: 教程
 {:toc}
 
 
+> 2016-09-01 换了新博客[Less Or More](https://github.com/luoyan35714/LessOrMore)
+
 致谢
 ====================================
 + 感谢[Less官网](http://lesscss.cn/)的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
@@ -122,3 +124,13 @@ jekyll server
 微信
 ----------------
 ![微信二维码付款给Freud]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+
+
+感谢！
+------------------------------
+
+| nickname                                 | amount | date       | remarks                    |
+| [@白想](https://github.com/baixiaoustc)  | 18.8   | 2016-11-14 | 感谢	                      |
+| [@王强](https://github.com/ecowang)      | 66.66  | 2016-11-21 | 感谢                       |
+
+<br />
