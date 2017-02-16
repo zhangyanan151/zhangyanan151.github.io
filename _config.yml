@@ -27,9 +27,9 @@ FB:
   comments :
     provider : duoshuo
     duoshuo:
-        short_name : zhangyanan151
+        short_name : nickzhang
     disqus :
-        short_name : zhangyanan151
+        short_name : nickzhang
     # facebook :
     #   appid : 123
     #   num_posts: 5
